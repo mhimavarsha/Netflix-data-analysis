@@ -1,4 +1,4 @@
-Netflix Data Analysis Project
+<h1>Netflix Data Analysis Project</h1>
 
 Project Overview
 
